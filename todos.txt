@@ -1,0 +1,9 @@
+sidebar
+	- sidebar enhancement [DONE]
+
+form
+	- add inage as option [DONE]
+
+list
+	- manage search
+	- preserve search in pagination [DONE]
